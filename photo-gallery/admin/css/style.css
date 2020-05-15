@@ -1,0 +1,36 @@
+.photo-info-box {
+    border: 1px solid #D3D3D3; }
+.info-box-header {
+    padding: 5px 20px;
+    background-color: #f9f9f9; }
+.photo-info-box .box-inner {
+    border-top: 1px solid #D3D3D3;
+    padding: 15px; }
+.photo-info-box .box-inner .text {
+    padding: 5px 15px 0 5px; }
+.photo-info-box .box-inner .data {
+    font-weight: bold; }
+.photo-info-box .info-box-footer {
+    padding: 5px 20px 10px 20px; }
+.admin-photo-thumbnail {
+    height: 150px;
+    border-radius: 5px; }
+.user_image {
+    height: 70px;
+    width: 70px;
+    border-radius: 3px; }
+.modal-dialog {
+    width: 90% !important; }
+.modal-body {
+    overflow: auto;
+    height: 500px !important;
+    min-height: 300px !important; }
+.modal_thumbnails {
+    width: 150px;
+    height: 100px !important; }
+#set_user_image {
+    margin:10px; }
+#modal_sidebar {
+    position: fixed !important; }
+#login-id label {
+    color: #fff; }
